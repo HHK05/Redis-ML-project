@@ -11,7 +11,7 @@ This project demonstrates a phishing email classification application using mach
 ## Application Workflow
 The following diagram illustrates how the application works, including the interaction between the machine learning model, FastAPI, and Redis caching:
 
-![Redis ML applicaiton diagram](image/redisml.svg)
+![Redis ML applicaiton diagram](Image/redisml.svg)
 
 
 ---
